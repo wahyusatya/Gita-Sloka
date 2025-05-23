@@ -6,7 +6,7 @@ The Gita Sloka app is a digital platform that presents the Bhagavad Gita in 18 c
 
 1. Make sure Flutter is installed. Check the Flutter version:
 ```shell
-  flutter --version
+flutter --version
    ```
 3. Clean up the project before starting:
   ```shell
