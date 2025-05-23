@@ -8,7 +8,7 @@ The Gita Sloka app is a digital platform that presents the Bhagavad Gita in 18 c
    ```shell
    flutter --version
    ```
-2. Clean up the project before starting:
+3. Clean up the project before starting:
   ```shell
   flutter clean
   ```
