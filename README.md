@@ -4,13 +4,6 @@ The Gita Sloka app is a digital platform that presents the Bhagavad Gita in 18 c
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make sure to clean the cache build from Flutter Project
+flutter clean
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
